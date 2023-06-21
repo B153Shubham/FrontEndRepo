@@ -1,0 +1,13 @@
+{
+  "SignUpClass": [
+    {
+      "name": "shubham",
+      "email": "shubham@gmail.com",
+      "mobileNumber": 9874566,
+      "gender": "1",
+      "username": "Shubh",
+      "password": "Shubh@123",
+      "id": 1
+    }
+  ]
+}
